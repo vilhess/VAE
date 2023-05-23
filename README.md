@@ -1,3 +1,5 @@
+link of the streamlit page : https://vilhess-vae-vae-exud7v.streamlit.app/
+
 # VAE AI Model with Streamlit 🤖🎨
 
 This is a simple application that showcases the Variational Autoencoder (VAE) model applied on two datasets: MNIST and FREY FACE. The application is built using Streamlit, a Python library for building interactive web applications. 🚀
