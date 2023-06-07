@@ -1,4 +1,4 @@
-link of the streamlit page : https://vilhess-vae-vae-exud7v.streamlit.app/
+link of the streamlit page : [https://vilhess-vae-vae-exud7v.streamlit.app/](https://vae-vilhess.streamlit.app/)
 
 # VAE AI Model with Streamlit 🤖🎨
 
